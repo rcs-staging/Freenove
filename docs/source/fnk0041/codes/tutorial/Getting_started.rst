@@ -57,17 +57,17 @@ We also have cars and robot kit for Raspberry Pi. If you are interesting in them
 
 http://www.freenove.com/store.html
 
-:x-large:`FNK0043 Freenove 4WD Smart Car Kit for Raspberry Pi`
+:combo:`font-bolder large:FNK0043 Freenove 4WD Smart Car Kit for Raspberry Pi`
 
 .. raw:: html
 
-   <iframe height="500" width="690" src="https://www.youtube.com/embed/4Zv0GZUQjZc" frameborder="0" allowfullscreen></iframe>
+    <iframe style="display: block; margin: 0 auto;" height="421.875" width="750" src="https://www.youtube.com/embed/4Zv0GZUQjZc" frameborder="0" allowfullscreen></iframe>
 
-:x-large:`FNK0050 Freenove Robot Dog Kit for Raspberry Pi`
+:combo:`font-bolder large:FNK0050 Freenove Robot Dog Kit for Raspberry Pi`
 
 .. raw:: html
 
-   <iframe height="500" width="690" src="https://www.youtube.com/embed/7BmIZ8_R9d4" frameborder="0" allowfullscreen></iframe>
+    <iframe style="display: block; margin: 0 auto;" height="421.875" width="750" src="https://www.youtube.com/embed/7BmIZ8_R9d4" frameborder="0" allowfullscreen></iframe>
 
 About Freenove
 ****************************************************************
