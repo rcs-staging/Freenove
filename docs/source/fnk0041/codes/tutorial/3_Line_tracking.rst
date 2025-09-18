@@ -165,28 +165,30 @@ The code is below.
     
     var = (y < 10) ? 30 : 40;   then var=40
 
-.. py:function:: switch...case	
-    
-    switch (var) {
-    
-    case 1:
-        //do something when var equals 1
+.. c:function:: switch...case
 
-        break;
-    
-    case 2:
-        //do something when var equals 2
-
-        break;
-    
-    default:
-        // if nothing else matches, do the default
+    .. code-block:: c
+        :linenos:
         
-        // default is optional
+        switch (var) { 
+          case 1:
+              //do something when var equals 1
 
-        break;
-    }
-    
-    For more information, please refer to: 
-    
-    https://www.arduino.cc/reference/en/language/structure/control-structure/switchcase/
+              break;
+          
+          case 2:
+              //do something when var equals 2
+
+              break;
+          
+          default:
+              // if nothing else matches, do the default
+              
+              // default is optional
+
+              break;
+        }
+
+For more information, please refer to: 
+
+https://www.arduino.cc/reference/en/language/structure/control-structure/switchcase/

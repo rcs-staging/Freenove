@@ -150,7 +150,7 @@ We set timeout to MAX_DISTANCE*60, a little larger, since the maximum distance o
 
 If time of high level lasting time of echo is larger than SONIC_TIMEOUT, it will return 0. Then pingTime=0.
 
-.. c:function:: pulseIn(pin, value, timeout)
+.. py:function:: pulseIn(pin, value, timeout)
 
     pin: the number of the Arduino pin on which you want to read the pulse.
     
@@ -162,7 +162,7 @@ If time of high level lasting time of echo is larger than SONIC_TIMEOUT, it will
     
     https://www.arduino.cc/reference/en/language/functions/advanced-io/pulsein/
 
-.. c:function:: Array
+.. py:function:: Array
 
     An array is a collection of variables that are accessed with an index number.
     

@@ -268,7 +268,7 @@ If your servo is not accurately mounted at 90 degrees, you can use this mode for
 In this mode, you can adjust potentiometer 2 (POT2) to fine tune the angle of the servo. When you adjust the servo to the correct angle, press the Z-axis of joystick to save calibration data to EEPROM. It will be saved permanently unless it is modified.
 
 Mode 3-obstical avoidance, Mode 5-line tracking mode
---------------------------------------------
+-------------------------------------------------------------
 
 These two modes have been learned separately in the previous project, and their running logic and codes are consistent with the previous project.
 
