@@ -1,43 +1,23 @@
 ## Freenove 4WD Car Kit
 
-> A learning smart car kit, Compatible with Arduino.
-
 <img src='Images/freenove-4wd-car.png' width='70%'/>
 
-### Download
+### Tải về 
 
-* **Manually download in browser**
+* Clone repository về bằng cách sử dụng lệnh dưới:
 
-	Click the green "Clone or download" button, then click "Download ZIP" button in the pop-up window.
-	Do NOT click the "Open in Desktop" button, it will lead you to install Github software.
+```
+git clone https://github.com/rcs-staging/Freenove Freenove
+```
 
-> If you meet any difficulties, please contact our support team for help.
+Hoặc sử dụng nút màu xanh `<> Code` và chọn Download ZIP để tải về.
 
-### Support
+### Lưu ý
+> [!WARNING]
+> Tính đến thời điểm hiện tại, repository này vẫn đang được sync với upstream! Nhưng trong tương lai thì upstream có thể có thay đổi, và repository này có thể không được update liên tục để sync với upstream.
 
-Freenove provides free and quick customer support. Including but not limited to:
-
-* Quality problems of products
-* Using Problems of products
-* Questions of learning and creation
-* Opinions and suggestions
-* Ideas and thoughts
-
-Please send an email to:
-
-[support@freenove.com](mailto:support@freenove.com)
-
-We will reply to you within one working day.
-
-### Purchase
-
-Please visit the following page to purchase our products:
-
-http://store.freenove.com
-
-Business customers please contact us through the following email address:
-
-[sale@freenove.com](mailto:sale@freenove.com)
+### Hướng dẫn sử dụng (đã được Việt hoá)
+[Tham khảo tại đây.](https://github.com/rcs-staging/Freenove/blob/master/quickstartguide_vi.md)
 
 ### Copyright
 
@@ -49,7 +29,6 @@ This means you can use them on your own derived works, in part or completely. Bu
 You can find a copy of the license in this repository.
 
 Freenove brand and logo are copyright of Freenove Creative Technology Co., Ltd. Can't be used without formal permission.
-
 
 ### About
 
